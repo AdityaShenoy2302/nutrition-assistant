@@ -1,4 +1,4 @@
-# 🍏 CalorieTracking AI Assistant
+# 🍏 AI Nutrition Assistant
 
 An AI-powered Streamlit web app to analyze and answer questions about nutrition data using PDFs and CSVs. Built using LangChain, FAISS vector store, and Groq's LLM (LLaMA 3.3).
 
